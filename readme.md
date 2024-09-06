@@ -44,6 +44,6 @@ Esse é só o começo! A gente tem muitas ideias para deixar o catálogo ainda m
 
 **[Renato Santos]**
 
-**[(https://github.com/Renato32s)]**
+**[https://github.com/Renato32s]**
 
-**[(https://github.com/Renato32s/imersao-dev-com-Google_Gemini)]**
+**[https://github.com/Renato32s/catalogo-de-jogos-indies]**
