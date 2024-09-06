@@ -1,5 +1,3 @@
-## **README.md Descontraído para o seu Catálogo de Jogos Indies**
-
 ###  **Catálogo de Jogos Indies: Sua Próxima Obsessão Gamer!**
 
 **O que é isso?**
